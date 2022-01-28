@@ -1,3 +1,4 @@
-# c356 project
+# CS356 - Intro to Computer Networks
 
-## This is a test, I've set up this repository in a way that any commit that I make will push to both a Github account and a Gitlab account. My professor is requiring the use of Gitlab over Github so she can be named a developer, hopefully this allows me to use both.
+## Description
+This class will focus on networking topics such as how the internet works and cloud computing. This class builds on the material learned from IT120, a class that focuses heavily on packet structure and TCP/UDP. This repository will store all the labs completed in this class.
